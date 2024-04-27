@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @selcukileri
-- 🌱 I’m currently learning Kotlin, Swift
+- 🌱 I’m Junior iOS Developer
 - 📫 How to reach me selcukileri98@gmail.com
 
 <!---
