@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @selcukileri
-- 🌱 I’m Junior iOS Developer
+- 🌱 I’m iOS Developer
 - 📫 How to reach me selcukileri98@gmail.com
 
 <!---
